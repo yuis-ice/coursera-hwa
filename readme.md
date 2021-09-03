@@ -2,7 +2,7 @@
 
 hwa - helpful weighted average review for Coursera reviews
 
-![](./ss.png)
+![](./ShareX_ScreenShot_4f850c9e-31b8-45ef-b2d1-236c14627e58.png)
 
 ## Usage
 
